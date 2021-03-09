@@ -1,0 +1,24 @@
+h3 {
+    background-color: black;
+    size: 0rem;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.btn-primary {
+    color: #003B74;
+}
+
+btn-primary:hover {
+    color: #003B74;
+}
+
+.btn-secondary {
+    color: rgba(40, 56, 201, 0.349)
+}
+
+btn-secondary:hover {
+    color: rgba(40, 56, 201, 0.349)
+}
